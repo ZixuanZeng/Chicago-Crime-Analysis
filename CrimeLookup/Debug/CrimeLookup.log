@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2015\projects\crimelookup\crimelookup\main.c(546): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[5]'
+c:\users\user\documents\visual studio 2015\projects\crimelookup\crimelookup\main.c(546): warning C4024: 'particularCrimeInArea': different types for formal and actual parameter 3
+  CrimeLookup.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\CrimeLookup\Debug\CrimeLookup.exe
+  CrimeLookup.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\CrimeLookup\Debug\CrimeLookup.pdb (Full PDB)
